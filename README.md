@@ -69,3 +69,16 @@ Putting everything we learned to practice
 
 * Week 7 and 8: working on your project
 * Week 9: reviewing your peers
+
+### Technologies
+* *Google Cloud Platform (GCP)*: Cloud-based auto-scaling platform by Google
+  * *Google Cloud Storage (GCS)*: Data Lake
+  * *BigQuery*: Data Warehouse
+* *Terraform*: Infrastructure-as-Code (IaC)
+* *Docker*: Containerization
+* *SQL*: Data Analysis & Exploration
+* *Prefect*: Workflow Orchestration
+* *dbt*: Data Transformation
+* *Spark*: Distributed Processing
+* *Kafka*: Streaming
+
